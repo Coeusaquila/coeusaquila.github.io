@@ -8,7 +8,7 @@ Right now, we’re in your first GitHub **repository**. A repository is like a f
 
 This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
-I am makeing and addition to practive making a change.
+I am making an addition to practice making a change.
 
 ## Describe your project
 
